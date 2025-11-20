@@ -32,15 +32,92 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
+# Create Simple Prompts for Video Generation
+  Start with basic prompts focused on the main subject or scene.
+
+### Example Prompt:
+```
+A photorealistic close-up portrait of a woman with shoulder-length auburn hair and natural skin texture, wearing a flowing white gown, standing in a foggy forest with a softly blurred background
+```
+
+### Output Goal: A short video illustrating a simple scenario.
+# Experiment with More Detailed Prompts
+Incorporate more contextual detail:
+
+Setting
+
+Clothing
+
+Background elements
+
+Companion entities
+
+# Refined Prompt:
+```
+Example Refined Prompt
+“A regal woman with wavy golden hair and deep blue eyes, wearing a flowing white dress, stands in a grand palace with marble floors and chandeliers. Soft cinematic lighting, natural skin texture, shot on Canon EOS R5 with 85mm lens at f/1.8, hyper-detailed, volumetric lighting, inspired by Annie Leibovitz, moody and elegant atmosphere, sharp subject with gently blurred background.”
+```
+
+## Output Goal: Evaluate if tools respond well to rich visual descriptions.
+# Add Time and Motion Elements
+
+Introduce temporal dynamics and camera behaviors:
+
+Time-lapse
+
+Zoom, pan, rotate
+
+Scene transitions
+
+# Prompt with motion:
+```
+A photorealistic portrait of a model running through a foggy forest, captured in motion, cinematic lighting, background blurred to emphasize movement, faint silhouette of a distant castle in the mist
+```
+
+# Check: How accurately does the model simulate motion or transitions?
+## Test Different Video Styles
+### Try prompts in different genres:
+
+Animation
+
+Cinematic/live-action
+
+Abstract/artistic
+
+Educational/tutorial
+
+# Style specific Prompt:
+```
+“A photorealistic close-up portrait of a model in a foggy forest, in the style of a classic film still, with dramatic, low-key cinematic lighting and soft color grading.”
+```
+## Observe: Style fidelity, color tones, realism vs abstraction.
+## Iterate and Adjust Prompts
+# Refine prompts based on:
+
+Pacing
+
+Frame transitions
+
+Object motion or expression
+
+Scene continuity
+
+# Revised Prompt:
+```
+"A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene with dynamic camera angles."
+```
+## Action: Compare new output to previous versions.
+## Generate Multiple Versions per Prompt
+### Create slight variations of the same prompt:
+
+Synonym changes
+
+Reordering of elements
+
+Swapping descriptors
+
+## Output Goal: Identify how phrasing impacts generation quality and interpretation.
+
+
 # Result: The Prompt of the above task executed successfully
-
-
-
-
-
-
-
-
-
-# Result:
 
