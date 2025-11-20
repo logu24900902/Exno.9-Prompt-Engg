@@ -118,6 +118,8 @@ Swapping descriptors
 
 ## Output Goal: Identify how phrasing impacts generation quality and interpretation.
 
+https://drive.google.com/file/d/1zcPTxLUB7l1oD8dhwD54Q5P7b3awXrOX/view?usp=drivesdk
+https://drive.google.com/file/d/1zcPTxLUB7l1oD8dhwD54Q5P7b3awXrOX/view?usp=drivesdk
 
 # Result: The Prompt of the above task executed successfully
 
